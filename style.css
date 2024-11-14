@@ -1,0 +1,19 @@
+*{
+  margin-top: 20px;
+}
+
+a{
+  text-decoration: none;
+
+}
+h1{
+  text-decoration: underline;
+}
+img{
+  width: 300px;
+}
+.bea_1{
+  border: solid black 1px;
+  margin: 0;
+  padding: 10px;
+}
